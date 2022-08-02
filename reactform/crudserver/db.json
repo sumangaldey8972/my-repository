@@ -1,0 +1,12 @@
+{
+    "data":[
+        {
+            "name":"Sumangal",
+            "address":"kolkata",
+            "age":"23",
+            "department" : "Department",
+            "salary" : "20000",
+            "maritial_status" : true
+        }
+    ]
+}
